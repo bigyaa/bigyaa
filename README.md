@@ -1,9 +1,5 @@
 ### Hi there 
- _   _    _
-| | | |  | |
-| |_| |  | |
-|  _  |  | |
-|_| |_|  |_|
+
  
 I'm Bigya, a graduate computer science student at ETSU, passionate about leveraging technology to solve real-world problems.
 
