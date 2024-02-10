@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hi there 
+ _   _    _
+| | | |  | |
+| |_| |  | |
+|  _  |  | |
+|_| |_|  |_|
+ 
 I'm Bigya, a graduate computer science student at ETSU, passionate about leveraging technology to solve real-world problems.
 
 🔭 Currently, I'm immersed in my Capstone Project, "isc-transcription," aimed at devising an efficient and scalable solution for transcribing and diarizing a multitude of recordings. You can find more details on this project in my top pinned repository.
