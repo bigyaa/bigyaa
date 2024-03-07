@@ -9,7 +9,7 @@ I'm Bigya, a graduate computer science student at ETSU, passionate about leverag
 
 📫 Want to get in touch? Feel free to reach out to me at bigyabajracharya@gmail.com.
 
-⚡ Fun fact: I randomly started learning German on Duolingo. Surprisingly, what started as a random endeavor has turned into a 220-streak commitment!
+⚡ Fun fact: I randomly started learning German on Duolingo. Surprisingly, what started as a random endeavor has turned into a 234-streak commitment!
 
 💼 I'm currently seeking job opportunities where I can apply my skills and knowledge in computer science and data analytics to make a meaningful impact.
 
