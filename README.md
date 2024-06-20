@@ -1,4 +1,8 @@
-##Hi there! (:
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+</div>
+
+### Hi there! (:
 
 I'm Bigya, a computer science graduate with both a Master's and Bachelor's degree in Computer Science, passionate about leveraging technology to solve real-world problems.
 
@@ -10,15 +14,8 @@ I'm Bigya, a computer science graduate with both a Master's and Bachelor's degre
 
 📫 Feel free to reach out to me at bigyabajracharya@gmail.com.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
-</div>
-
 Looking forward to connecting and collaborating with fellow tech enthusiasts. 🚀
 
-<div align="center">
-  <img src="https://media.giphy.com/media/1yk9p8zFGMl9H0yvHs/giphy.gif" width="200">
-</div>
 
 <!--
 **bigyaa/bigyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
