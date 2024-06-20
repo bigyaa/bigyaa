@@ -1,20 +1,15 @@
-### Hi there 
+Hi there! (:
+I'm Bigya, a computer science graduate with both a Master's and Bachelor's degree in Computer Science, passionate about leveraging technology to solve real-world problems.
 
- 
-I'm Bigya, a graduate computer science student at ETSU, passionate about leveraging technology to solve real-world problems.
+🔭 I recently completed my Capstone Project, "isc-transcription," where I developed an efficient and scalable solution for transcribing and diarizing thousands of recordings. You can explore more details in my top pinned repository.
 
-🔭 Currently, I'm immersed in my Capstone Project, "isc-transcription," aimed at devising an efficient and scalable solution for transcribing and diarizing a multitude of recordings. You can find more details on this project in my top pinned repository.
+🌱 Currently, I'm enhancing my skill set with a certification in Advanced Data Analytics by Google, focusing on data analysis and interpretation.
 
-🌱 Additionally, I'm pursuing certification in Advanced Data Analytics by Google, expanding my knowledge and skills in data analysis and interpretation.
+💼 I'm actively seeking job opportunities to apply my expertise in computer science, machine learning, and data analytics to create impactful solutions.
 
-📫 Want to get in touch? Feel free to reach out to me at bigyabajracharya@gmail.com.
+📫 Feel free to reach out to me at bigyabajracharya@gmail.com.
 
-⚡ Fun fact: I randomly started learning German on Duolingo. Surprisingly, what started as a random endeavor has turned into a 234-streak commitment!
-
-💼 I'm currently seeking job opportunities where I can apply my skills and knowledge in computer science and data analytics to make a meaningful impact.
-
-Looking forward to connecting and collaborating with fellow enthusiasts in the tech realm. 🚀
-
+Looking forward to connecting and collaborating with fellow tech enthusiasts. 🚀
 <!--
 **bigyaa/bigyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
