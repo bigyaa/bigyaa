@@ -1,7 +1,8 @@
-Hi there! (:
+##Hi there! (:
+
 I'm Bigya, a computer science graduate with both a Master's and Bachelor's degree in Computer Science, passionate about leveraging technology to solve real-world problems.
 
-🔭 I recently completed my Capstone Project, "isc-transcription," where I developed an efficient and scalable solution for transcribing and diarizing thousands of recordings. You can explore more details in my top pinned repository.
+🔭 I recently completed my Capstone Project, ["isc-transcription"](https://github.com/bigyaa/isc-transcription) where I developed an efficient and scalable solution for transcribing and diarizing thousands of recordings. You can explore more details in my top pinned repository.
 
 🌱 Currently, I'm enhancing my skill set with a certification in Advanced Data Analytics by Google, focusing on data analysis and interpretation.
 
@@ -9,7 +10,16 @@ I'm Bigya, a computer science graduate with both a Master's and Bachelor's degre
 
 📫 Feel free to reach out to me at bigyabajracharya@gmail.com.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+</div>
+
 Looking forward to connecting and collaborating with fellow tech enthusiasts. 🚀
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1yk9p8zFGMl9H0yvHs/giphy.gif" width="200">
+</div>
+
 <!--
 **bigyaa/bigyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
