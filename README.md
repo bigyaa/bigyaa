@@ -8,7 +8,9 @@ I'm Bigya, a computer science graduate with both a Master's and Bachelor's degre
 
 🔭 I recently completed my Capstone Project, ["transcription-system"](https://github.com/bigyaa/transcription-system) where I developed an efficient and scalable solution for transcribing and diarizing bulks of recordings. You can explore more details in my top pinned repository.
 
-🌱 Currently, I'm enhancing my skill set with a certification in Advanced Data Analytics by Google, focusing on data analysis and interpretation.
+🌱 Currently, I'm enhancing my skill set with a certification in Advanced Data Analytics from Google, focusing on data analysis and interpretation.
+
+🔬 I am also working on a research paper pertaining to Edge Computing with one of my professors. Hoping to get it published by December.🤞🏻
 
 💼 I'm actively seeking job opportunities to apply my expertise in computer science, machine learning, and data analytics to create impactful solutions.
 
