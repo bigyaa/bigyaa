@@ -14,7 +14,7 @@ I'm Bigya, a computer science graduate with both a Master's and Bachelor's degre
 
 💼 I'm actively seeking job opportunities to apply my expertise in computer science, machine learning, and data analytics to create impactful solutions.
 
-📫 Feel free to reach out to me at bigyabajracharya@gmail.com.
+📫 Feel free to reach out to me at bigya.in.tech@gmail.com.
 
 Looking forward to connecting and collaborating with fellow tech enthusiasts. 🚀
 
