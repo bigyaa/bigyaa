@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </div>
 
-### Hi there! (:
+##Hello there! 😊
 
-I'm Bigya, a full-stack software engineer with a Master's and Bachelor's in Computer Science, passionate about leveraging technology to solve real-world problems.
+I’m Bigya, a software engineer with 5 years of experience under my belt. I hold a Master’s and Bachelor’s degree in Computer Science, and I’m passionate about using technology to solve real-world problems.
 
-🔭 I recently completed my Capstone Project, ["transcription-system"](https://github.com/bigyaa/transcription-system) where I developed an efficient and scalable solution for transcribing and diarizing bulks of recordings. You can explore more details in my top pinned repository.
+I recently completed an MVP for a non-profit organization called [“transcription-system”](https://github.com/bigyaa/transcription-system). In this project, I designed and developed a highly efficient and scalable solution for transcribing and diarizing a significant volume of recordings. For more details, please refer to my top pinned repository. I am currently working on some exciting feature enhancements that I will incorporate into this branch once I complete them.
 
-🌱 Currently, I'm working on a research paper about Edge Computing with one of my professors. Hoping to get it published by December.🤞🏻
+🌱 I’m currently working on a research paper about Edge Computing with one of my professors. I’m hoping to get it published by December! 🤞🏻
 
-💼 I'm actively seeking job opportunities to apply my web development, machine learning, and data analytics skills to create impactful solutions.
+💼 I’m on the lookout for job opportunities where I can use my web development, machine learning, and data analytics skills to create awesome solutions.
 
-📫 Feel free to contact me at bigya.in.tech@gmail.com (new email @).
+📧 Feel free to reach out to me at bigya.in.tech@gmail.com (new email address).
 
 
 <!--
