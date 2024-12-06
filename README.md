@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </div>
 
-##Hello there! 😊
+## Hello there! 😊
 
 I’m Bigya, a software engineer with 5 years of experience under my belt. I hold a Master’s and Bachelor’s degree in Computer Science, and I’m passionate about using technology to solve real-world problems.
 
