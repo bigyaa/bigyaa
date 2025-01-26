@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
-</div>
-
 # Hey, I’m Bigya! 👋  
 
 I **build things that users love and businesses rely on**—high-performance **web apps**, **AI-driven solutions**, and **seamless user experiences**. 
@@ -20,6 +16,10 @@ I’m looking for **opportunities** where I can apply **AI, web engineering, and
 
 ## 📬 Let’s Connect!  
 📩 **Reach me at:** **bigya.in.tech@gmail.com**—always open to discussing **exciting projects, new ideas, or just connecting**. 🚀  
+
+<p align="right">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+</p>
 <!--
 **bigyaa/bigyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
