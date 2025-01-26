@@ -4,7 +4,8 @@
 
 # Hey, I’m Bigya! 👋  
 
-I **build things that users love and businesses rely on**—high-performance **web apps**, **AI-driven solutions**, and **seamless user experiences**.  
+I **build things that users love and businesses rely on**—high-performance **web apps**, **AI-driven solutions**, and **seamless user experiences**. 
+
 With **5+ years of experience** in **full-stack engineering**, I specialize in **`React`**, **`TypeScript`**, **`Python`**, **`Node.js`**, and **`AI-powered applications`** that bridge the gap between **technology and real-world impact**.  
 
 ## 🚀 Recent Work  
