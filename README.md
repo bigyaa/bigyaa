@@ -6,7 +6,7 @@ With **5+ years of experience** in **full-stack engineering**, I specialize in *
 
 ## 🚀 Recent Work  
 Built an **AI-powered transcription system** for a **non-profit**, leveraging **`Whisper`**, **`TensorFlow`**, and **`Python`** to make **historical records 200% more accessible**—transforming **raw audio into structured, searchable data**.  
-🔗 Check it out here: [**transcription-system**](https://github.com/bigyaa).  
+🔗 Check it out here: [**transcription-system**](https://github.com/bigyaa/transcription-system).  
 
 ## 💡 Beyond Code  
 I’m exploring **Edge Computing research**, optimizing **data workflows**, and continuously refining **how AI integrates with scalable web applications**.  
