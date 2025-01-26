@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </div>
 
-## Hello there! 😊
+## Hey, I’m Bigya! 👋
 
-I’m Bigya, a software engineer with 5 years of experience under my belt. I hold a Master’s and Bachelor’s degree in Computer Science, and I’m passionate about using technology to solve real-world problems.
+I build things that users love and businesses rely on.—high-performance web apps, AI-driven solutions, and seamless user experiences. With 5+ years of experience in full-stack engineering, I specialize in React, TypeScript, Node.js, and AI-powered applications that bridge the gap between technology and real-world impact.
 
-I recently completed an MVP for a non-profit organization called [“transcription-system”](https://github.com/bigyaa/transcription-system). In this project, I designed and developed a highly efficient and scalable solution for transcribing and diarizing a significant volume of recordings. For more details, please refer to my top pinned repository. I am currently working on some exciting feature enhancements that I will incorporate into this branch once I complete them.
+🚀 Recent Work: Built an AI-powered transcription system for a non-profit, leveraging Whisper, TensorFlow, and Python to make historical records 200% more accessible—transforming raw audio into structured, searchable data. Check it out here: [“transcription-system”](https://github.com/bigyaa/transcription-system).
 
-🌱 I’m currently working on a research paper about Edge Computing with one of my professors. I’m hoping to get it published by December! 🤞🏻
+💡 Beyond Code: I’m exploring Edge Computing research, optimizing data workflows, and continuously refining how AI integrates with scalable web applications.
 
-💼 I’m on the lookout for job opportunities where I can use my web development, machine learning, and data analytics skills to create awesome solutions.
+🔎 What’s Next? I’m looking for opportunities where I can apply AI, web engineering, and creative problem-solving to build smart, efficient, and meaningful products.
 
-📧 Feel free to reach out to me at bigya.in.tech@gmail.com (new email address).
+📬 Let’s connect! Reach me at bigya.in.tech@gmail.com—always open to discussing exciting projects, new ideas, or just connecting.
 
 
 <!--
