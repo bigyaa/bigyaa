@@ -15,7 +15,7 @@ I’m exploring **Edge Computing research**, optimizing **data workflows**, and 
 I’m looking for **opportunities** where I can apply **AI, web engineering, and creative problem-solving** to build **smart, efficient, and meaningful products**.  
 
 ## 📬 Let’s Connect!  
-📩 **Reach me at:** **bigya.in.tech@gmail.com**—always open to discussing **exciting projects, new ideas, or just connecting**. 🚀  
+📩 **Reach me at:** **bigya.js@gmail.com**—always open to discussing **exciting projects, new ideas, or just connecting**. 🚀  
 
 <p align="right">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
