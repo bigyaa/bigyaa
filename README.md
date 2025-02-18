@@ -1,24 +1,45 @@
-# Hey, I’m Bigya! 👋  
+# Hello, I'm Bigya! 👋
 
-I **build things that users love and businesses rely on**—high-performance **web apps**, **AI-driven solutions**, and **seamless user experiences**. 
+Senior Software Engineer crafting high-performance web applications and AI-driven solutions. With 6+ years of experience, I specialize in building scalable systems that solve real business challenges.
 
-With **6+ years of experience** in **full-stack engineering**, I specialize in **`React`**, **`TypeScript`**, **`Python`**, **`Node.js`**, and **`AI-powered applications`** that bridge the gap between **technology and real-world impact**.  
+## 🛠️ Tech Stack
 
-## 🚀 Recent Work  
-Built an **AI-powered transcription system** for a **non-profit**, leveraging **`Whisper`**, **`TensorFlow`**, and **`Python`** to make **historical records 200% more accessible**—transforming **raw audio into structured, searchable data**.  
-🔗 Check it out here: [**transcription-system**](https://github.com/bigyaa/transcription-system).  
+- **Frontend**: React, TypeScript, Next.js, TailwindCSS
+- **Backend**: Node.js, Python, GraphQL, REST APIs
+- **AI/ML**: PyTorch, TensorFlow, LangChain, Whisper
+- **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD
+- **Data**: PostgreSQL, MongoDB, Redis, Apache Kafka
 
-## 💡 Beyond Code  
-I’m exploring **Edge Computing research**, optimizing **data workflows**, and continuously refining **how AI integrates with scalable web applications**.  
+## 🚀 Highlighted Projects
 
-## 🔎 What’s Next?  
-I’m looking for **opportunities** where I can apply **AI, web engineering, and creative problem-solving** to build **smart, efficient, and meaningful products**.  
+### AI-Driven Archival Platform
+Engineered an intelligent transcription system processing 100K+ historical documents
+- Built with Python, Whisper, React, and NLP models
+- Achieved 95% accuracy in document classification
+- Improved research accessibility by 3x
+🔗 [View Project](https://github.com/bigyaa/transcription-system)
 
-## 📬 Let’s Connect!  
-📩 **Reach me at:** **bigya.js@gmail.com**—always open to discussing **exciting projects, new ideas, or just connecting**. 🚀  
+## 🌱 Current Focus
+
+- Researching edge computing optimization techniques
+- Exploring LLM applications in enterprise systems
+- Building scalable AI-integrated web architectures
+- Contributing to open-source ML projects
+
+## 📈 GitHub Stats (Work in progress)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigyaa&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/bigyabajracharya)
+- 🌐 [Portfolio](https://bigyaa.github.io)
+- 📧 [bigya.js@gmail.com](mailto:bigya.js@gmail.com)
 
 <p align="right">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=bigyaa&color=red" alt="Profile Views">
 </p>
 <!--
 **bigyaa/bigyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
