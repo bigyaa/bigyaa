@@ -26,12 +26,13 @@ Engineered an intelligent transcription system processing 100K+ historical docum
 - Building scalable AI-integrated web architectures
 - Contributing to open-source ML projects
 
+<!--
 ## 📈 GitHub Stats (Work in progress)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bigyaa&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-
+-->
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/bigyabajracharya)
