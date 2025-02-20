@@ -1,6 +1,6 @@
 # Hello, I'm Bigya! 👋
 
-Software Engineer crafting high-performance web applications and AI-driven solutions. With 6+ years of experience, I specialize in building scalable systems that solve real business challenges.
+Software Engineer crafting high-performance web applications and AI-driven solutions. With 6 years of experience, I specialize in building scalable systems that solve real business challenges.
 
 ## 🛠️ Tech Stack
 
